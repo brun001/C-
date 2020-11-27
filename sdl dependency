@@ -1,0 +1,6 @@
+SDL SETUP
+
+sudo apt-get instal libsdl2-dev
+sudo apt-get instal libsdl2-image-dev
+sudo apt-get instal libsdl2-ttf-dev
+sudo apt-get instal libsdl2-mixer-dev
